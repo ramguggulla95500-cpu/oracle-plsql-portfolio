@@ -428,4 +428,6 @@ The Olist dataset is publicly available on Kaggle under [CC BY-NC-SA 4.0](https:
 
 ---
 
+added about project
+
 *Built with ❤️ using Oracle PL/SQL — a real-world ETL project using real data.*
